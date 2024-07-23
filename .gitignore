@@ -1,0 +1,11 @@
+# Virtual environment
+qrcode-env/
+
+# Python specific
+*.pyc
+__pycache__/
+
+# Others
+.DS_Store
+*.log
+
